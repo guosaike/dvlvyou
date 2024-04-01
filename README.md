@@ -14,9 +14,9 @@
 
 
 
-前台地址： [https://dvlvyou.ake999.com](http://travel.gitapp.cn/)
+前台地址： [https://dvlvyou.ake999.com](https://dvlvyou.ake999.com)
 
-后台地址： https://dvlvyou.ake999.com/login
+后台地址：https://dvlvyou.ake999.com/login
 
 
 
